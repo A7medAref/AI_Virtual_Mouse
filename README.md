@@ -15,3 +15,6 @@ pip install -r requirements.txt
 ```sh
 python gui.py
 ```
+
+# Note
+- Not real time since it uses only Image processing (No deep learning or machine learning)
